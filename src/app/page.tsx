@@ -9,7 +9,8 @@ export default function Home() {
     { id: "05", titulo: "Entendendo o JSX" },
     { id: "06", titulo: "React Hoocks" },
     { id: "07", titulo: "Navegação Dinâmica" },
-    { id: "08", titulo: "" },
+    { id: "08", titulo: "Navegação Dinâmica 2 Params" },
+    { id: "09", titulo: "API's" },
   ];
 
   return (
