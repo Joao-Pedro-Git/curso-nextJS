@@ -1,3 +1,5 @@
+"use client";
+
 import Link from "next/link";
 
 export default function Home() {
@@ -10,7 +12,9 @@ export default function Home() {
     { id: "06", titulo: "React Hoocks" },
     { id: "07", titulo: "Navegação Dinâmica" },
     { id: "08", titulo: "Navegação Dinâmica 2 Params" },
-    { id: "09", titulo: "API's" },
+    { id: "09", titulo: "API's e modos de renderizar-las" },
+    { id: "09", titulo: "Componente com base na API" },
+    { id: "10", titulo: "Extrair dados com API" },
   ];
 
   return (
